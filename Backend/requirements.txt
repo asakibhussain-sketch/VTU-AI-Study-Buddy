@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-multipart
+python-dotenv
+groq
+PyPDF2
+pypdf
+faster-whisper
+httpx
+python-jose[cryptography]
+fpdf2
